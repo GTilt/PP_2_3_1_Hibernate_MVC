@@ -1,7 +1,7 @@
 package web.service;
 
 import org.springframework.stereotype.Service;
-import web.DAO.UserDAO;
+import web.dao.UserDAO;
 import web.model.User;
 
 import java.util.List;
